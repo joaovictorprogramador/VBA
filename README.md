@@ -3,3 +3,4 @@
 
 <h3>DEFINIÇÃO</h3>
 <p>Linguagem de programação para os produtos Microsoft. Também chamada de <i>"linguagem por trás do Excel".</i></p>
+<p>Consegue fazer altomatização de rotinas no excel.</p>
